@@ -69,5 +69,11 @@
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/08.png"/>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/love-story">
+            <p align="center">love=story</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/09.png"/>
+        </a>
+    </td>
 
 
