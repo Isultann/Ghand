@@ -119,6 +119,42 @@ https://download-directory.github.io
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/15.png"/>
         </a>
     </td>
+        <!--project-6-->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/rose">
+            <p align="center">rose</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/16.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/flower-3">
+            <p align="center">flower-3</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/17.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/click-flower">
+            <p align="center">click-flower</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/18.png"/>
+        </a>
+    </td>
+        <!--project-7-->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/butterfly">
+            <p align="center">butterfly</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/19.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/love-letter">
+            <p align="center">love-letter</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/20.png"/>
+        </a>
+    </td>
+
+
 
     
 
