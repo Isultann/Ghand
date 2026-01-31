@@ -238,7 +238,7 @@ https://download-directory.github.io
     <td valign="top">
         <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/birthday-book">
             <p align="center">birthday-book</p>
-            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/30.png"/>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/31.png"/>
         </a>
     </td>
     </tr>
