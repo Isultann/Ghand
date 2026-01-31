@@ -40,7 +40,6 @@ https://download-directory.github.io
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/03.png"/>
         </a>
     </td>
-    <tr>
     <td valign="top">
         <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/butterflies-world">
             <p align="center">Butterflies-world</p>
@@ -176,7 +175,6 @@ https://download-directory.github.io
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/21.png"/>
         </a>
     </td>
-    <tr>
     <td valign="top">
         <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/cherryblossom">
             <p align="center">cherryblossom</p>
